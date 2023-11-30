@@ -19,7 +19,7 @@ Prediction: Make predictions using the trained model and visualize the results.
 Repository Structure<br><br>
 📁 data: Store your historical stock price datasets here.<br>
 📁 notebooks: Contains Jupyter notebooks for data exploration, model training, and visualization.<br>
-📁 src: Python scripts for modularized functions related to data processing and model training.
+📁 src: Python scripts for modularized functions related to data processing and model training.<br>
 📁 images: Save visualizations and model architecture diagrams here.<br>
 Dependencies<br>
 Python 3.x<br>
