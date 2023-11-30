@@ -11,7 +11,7 @@ Data Exploration: Dive into the world of financial data, gaining insights from h
 LSTM Model: Harness the power of LSTM networks, known for their ability to capture long-term dependencies in sequential data.<br>
 Accurate Predictions: Train the model rigorously to make precise predictions, allowing for informed decision-making in the stock market.<br>
 Visualization: Visualize the model's predictions against actual stock prices, providing a clear understanding of its efficacy.<br><br>
-<u>How to Use<u>
+<u>How to Use<u><br>
 Dataset: Gather historical stock price data for the desired stock.<br>
 Data Preparation: Clean and preprocess the data to make it suitable for training the LSTM model.<br>
 LSTM Model Training: Utilize the provided Jupyter notebook or Python script to train the LSTM model on your prepared data.<br>
