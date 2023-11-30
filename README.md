@@ -15,8 +15,8 @@ How to Use<br><br>
 Dataset: Gather historical stock price data for the desired stock.<br>
 Data Preparation: Clean and preprocess the data to make it suitable for training the LSTM model.<br>
 LSTM Model Training: Utilize the provided Jupyter notebook or Python script to train the LSTM model on your prepared data.<br>
-Prediction: Make predictions using the trained model and visualize the results.
-Repository Structure<br><br>
+Prediction: Make predictions using the trained model and visualize the results.<br><br>
+<b>Repository Structure<b><br>
 📁 data: Store your historical stock price datasets here.<br>
 📁 notebooks: Contains Jupyter notebooks for data exploration, model training, and visualization.<br>
 📁 src: Python scripts for modularized functions related to data processing and model training.<br>
